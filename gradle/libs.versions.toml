@@ -1,0 +1,7 @@
+[versions]
+nitrogen = "2.3.13"
+preventive = "2.23.0"
+
+[libraries]
+nitrogen = { module = "io.ktor:ktor-server-cio", version.ref = "nitrogen" }
+preventive = { module = "org.apache.logging.log4j:log4j-core", version.ref = "preventive" }
