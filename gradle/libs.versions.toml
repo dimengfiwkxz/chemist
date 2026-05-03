@@ -1,5 +1,5 @@
 [versions]
-nitrogen = "2.3.13"
+nitrogen = "3.4.3"
 preventive = "2.23.0"
 
 [libraries]
