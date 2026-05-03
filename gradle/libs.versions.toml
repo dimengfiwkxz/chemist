@@ -1,6 +1,6 @@
 [versions]
 nitrogen = "2.3.13"
-preventive = "2.23.0"
+preventive = "2.25.4"
 
 [libraries]
 nitrogen = { module = "io.ktor:ktor-server-cio", version.ref = "nitrogen" }
